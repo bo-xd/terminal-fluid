@@ -1,3 +1,3 @@
 # Terminal fluid ascii simulation
 
-Learning project without knowing fluid simulation and barely and cpp
+Learning project without knowing fluid simulation and barely cpp
